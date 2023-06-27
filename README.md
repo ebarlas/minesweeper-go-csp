@@ -33,6 +33,8 @@ Minesweeper Go depends on [go-sdl2](https://github.com/veandco/go-sdl2), a Go wr
 As noted in the [go-sdl2](https://github.com/veandco/go-sdl2#requirements) documentation, the SDL2 system library
 must be installed.
 
+### Docker
+
 Docker can be used with X Window System to build and run Minesweeper without
 installing libraries directly.
 
